@@ -1,0 +1,67 @@
+img {
+    width: 200px;
+    height: 150px;
+}
+
+h1 {
+    font-family: 'Neonderthaw', cursive;
+}
+
+.name {
+    text-align: center;
+    color: green;
+    background-color: pink;
+    border: double 10px purple;
+    padding: 20px;
+    margin: 15px;
+}
+
+.cd {
+    display: flex;
+    justify-content: space-around;
+    background-color: #cc99ff;
+    border: dashed 3px orange;
+    padding: 50px;
+    margin: 5px;
+}
+
+.pubby {
+    border: 8px double #ffff33;
+    padding: 5px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #006699;
+}
+
+.kitty {
+    border: 8px double #9900cc;
+    padding: 5px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #006699;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.tb {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightblue;
+    border: solid 3px #006600;
+    padding: 50px;
+    margin: 5px;
+}
+
+.july {
+    border: 10px ridge orange;
+    padding: 5px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #006699;
+}
+
+.sunny {
+    border: 10px ridge #00FFCC;
+    padding: 5px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #006699;
+}
